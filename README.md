@@ -1,4 +1,4 @@
-# Screenshot App
+# Screenshot App Node
 
 ## Instructions for Instaling Dependencies and Execute tje Aplication
 
@@ -6,8 +6,8 @@
 
 Fisrt, clone the repository from GitHub to your local pc:
 
-git clone https://github.com/tu-usuario/screenshot-app.git
-cd screenshot-app
+git clone https://github.com/oderman/screenshot-app-node.git
+cd screenshot-app-node
 
 ### 2. Install dependencies
 npm install
