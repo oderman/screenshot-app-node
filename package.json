@@ -1,0 +1,23 @@
+{
+  "name": "screenshot-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron-mocha --renderer test/**/*.js",
+    "start": "electron .",
+    "build": "electron-packager. screenshot-app --platform=win32 --arch=x64"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^31.3.1",
+    "puppeteer": "^23.0.2"
+  },
+  "devDependencies": {
+    "electron-mocha": "^13.0.0",
+    "mocha": "^10.7.3",
+    "nodemon": "^3.1.4"
+  }
+}
