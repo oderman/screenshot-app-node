@@ -2,6 +2,10 @@
 
 ## Instructions for Instaling Dependencies and Execute tje Aplication
 
+## This project was carried out with the following versions
+node version 20.9.0
+npm version 10.1.0
+
 ### 1. Clone the repository
 
 Fisrt, clone the repository from GitHub to your local pc:
